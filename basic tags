@@ -1,0 +1,27 @@
+<!DOCTYPE html> <!--type of this document is html-->
+
+<html> <!--highest level tag in website, overall container, neccessary for every html files.-->
+	<head>
+		<meta charset="UTF-8"> <!--information of file. Shows what character set I use in this web. UTF-8 is very commonly used-->
+		<meta name="description" content="This is an awesome website"> <!--name : type of information I wanna define content : what the description should be-->
+	</head>
+
+	<body> <!--actually putting all the contents in your website-->
+		<title>
+			Suyeon's Website <!--browser's name-->
+		</title>
+				
+		
+		
+			<h1>hello world!</h1>  <!--h1~h6-->
+			</br> <!--(single tag) = 'break' You can use this as much as you wanna make more space between paragraphs. -->
+			<hr/><hr/> <!--(single tag)horizontal rule tag. You can make a line that separates part-->
+			
+			<p>This is my <b>paragraph</b></p> <!--automatically format themselves--><!--we can put 'b' tag inside the 'p' tag-->
+			<p>This is another <i>paragraph</i></p>  <!--automatically space self out below the former paragraph-->
+			<p>This is <b><i>paragraph</i></b></p>
+
+			<p><big>This</big> <small>is</small> a paragraph</p>
+	</body>
+
+</html>
